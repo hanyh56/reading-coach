@@ -20,6 +20,7 @@
 - 增加理解检查、反例与适用条件、现实连接和最小行动设计。
 - 增加中文安装和使用说明。
 - 增加《小岛经济学》演示性学习示例。
+- 增加 MIT License，明确允许使用、修改和分发。
 
 [Unreleased]: https://github.com/hanyh56/reading-coach/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/hanyh56/reading-coach/releases/tag/v1.0.0
